@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "usicon"; /* Project id 1131072 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1659287007512') format('woff2'),
+       url('iconfont.woff?t=1659287007512') format('woff'),
+       url('iconfont.ttf?t=1659287007512') format('truetype');
+}
+
+.usicon {
+  font-family: "usicon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-food:before {
+  content: "\e643";
+}
+
+.icon-wear:before {
+  content: "\e607";
+}
+
+.icon-wechat:before {
+  content: "\e600";
+}
+
+.icon-address:before {
+  content: "\e66e";
+}
+
+.icon-xingqi6:before {
+  content: "\e660";
+}
+
+.icon-xingqi5:before {
+  content: "\e661";
+}
+
+.icon-xingqi4:before {
+  content: "\e662";
+}
+
+.icon-xingqi3:before {
+  content: "\e663";
+}
+
+.icon-xingqi2:before {
+  content: "\e664";
+}
+
+.icon-xingqi1:before {
+  content: "\e665";
+}
+
+.icon-xingqi7:before {
+  content: "\e666";
+}
+
+.icon-clear:before {
+  content: "\e631";
+}
+
+.icon-bixin:before {
+  content: "\e629";
+}
+
+.icon-delete:before {
+  content: "\e618";
+}
+
+.icon-xin-pixel:before {
+  content: "\ed19";
+}
+

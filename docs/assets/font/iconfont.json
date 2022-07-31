@@ -1,0 +1,114 @@
+{
+  "id": "1131072",
+  "name": "us",
+  "font_family": "usicon",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3473218",
+      "name": "米饭",
+      "font_class": "food",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "17696935",
+      "name": "连衣裙",
+      "font_class": "wear",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14680644",
+      "name": "aui-icon-weichat",
+      "font_class": "wechat",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12842735",
+      "name": "w_地址-140",
+      "font_class": "address",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "28162156",
+      "name": "星期6",
+      "font_class": "xingqi6",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "28162157",
+      "name": "星期5",
+      "font_class": "xingqi5",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "28162159",
+      "name": "星期4",
+      "font_class": "xingqi4",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "28162160",
+      "name": "星期3",
+      "font_class": "xingqi3",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "28162162",
+      "name": "星期2",
+      "font_class": "xingqi2",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "28162163",
+      "name": "星期1",
+      "font_class": "xingqi1",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "28162164",
+      "name": "星期",
+      "font_class": "xingqi7",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "3590953",
+      "name": "清除数据库",
+      "font_class": "clear",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "3900988",
+      "name": "比心",
+      "font_class": "bixin",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "12977711",
+      "name": "删除",
+      "font_class": "delete",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "24470263",
+      "name": "像素_爱心",
+      "font_class": "xin-pixel",
+      "unicode": "ed19",
+      "unicode_decimal": 60697
+    }
+  ]
+}
