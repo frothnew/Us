@@ -18,6 +18,18 @@
 	],
 	"date": [
 		{
+			"date": "23/01/22",
+			"add": "东北",
+			"title": "开启我们的不分开模式",
+			"details":{
+				"wear":[],
+				"eat":[],
+				"others":["出发啦"]
+			},
+			"images":[],
+			"firstflage":[]
+		},
+		{
 			"date": "23/01/15",
 			"add": "路上",
 			"title": "取电脑",
